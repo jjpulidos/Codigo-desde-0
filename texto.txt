@@ -1,1 +1,1 @@
-Soy un código en python
+Soy un código en Go
